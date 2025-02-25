@@ -13,7 +13,7 @@
 - `filenameDe1_1.txt`: Tương ứng là các file Text Document giúp lưu trữ dữ liệu trong quá trình hoàn thiện bài thi
 
 ## Cách Chạy Dự Án  
-1. **Tải xuống** Tải Source về bằng cách sử dụng lệnh `git clone https://github.com/vana-ngw/OOP-KMA-A19C7D6.git`, Có thể sử dụng Netbeans, Visual Studio Code, IntelliJ Idea hoặc các IDE và Tools khác.
+1. Sử dụng Visual Studio Code, IntelliJ IDea (Hoặc các IDE, Text Editor, Tools tương tự). Tạo 1 Folder để chứa mã nguồn, mở Terminal và sử dụng lệnh `git clone https://github.com/vana-ngw/OOP-KMA-A19C7D6.git`
 2. **Biên dịch và chạy**:  
    - Mở NetBeans (Hoặc các IDE, Text Editor tương tự), load project vào môi trường.
    - Chạy project bằng cách nhấn **Run** hoặc sử dụng tổ hợp phím `Shift + F6`.  
