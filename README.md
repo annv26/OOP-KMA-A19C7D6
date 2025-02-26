@@ -9,14 +9,11 @@
 - **Phiên bản JDK**: JDK 21  
 
 ## Cấu Trúc Dự Án  
-- `src/` : Chứa mã nguồn
+- `src/main/java` : Chứa các Packages của Project
 - `filenameDe1_1.txt`: Tương ứng là các file Text Document giúp lưu trữ dữ liệu trong quá trình hoàn thiện bài thi
 
-## Cách Chạy Dự Án  
-1. Sử dụng Visual Studio Code, IntelliJ IDea (Hoặc các IDE, Text Editor, Tools tương tự). Tạo 1 Folder để chứa mã nguồn, mở Terminal và sử dụng lệnh `git clone https://github.com/vana-ngw/OOP-KMA-A19C7D6.git`
-2. **Biên dịch và chạy**:  
-   - Mở NetBeans (Hoặc các IDE, Text Editor tương tự), load project vào môi trường.
-   - Chạy project bằng cách nhấn **Run** hoặc sử dụng tổ hợp phím `Shift + F6`.  
+## Tải Xuống  
+- Sử dụng Visual Studio Code, IntelliJ IDea, Git Bash (Hoặc các Text Editor, IDE, Tools tương tự). Tạo 1 Folder để chứa mã nguồn, mở Terminal và sử dụng lệnh `git clone https://github.com/vana-ngw/OOP-KMA-A19C7D6.git`
 
 ## Đóng Góp  
 Mọi đóng góp cho project đều được hoan nghênh! Nếu bạn muốn bổ sung hoặc cải thiện code, vui lòng liên hệ với tôi. 
