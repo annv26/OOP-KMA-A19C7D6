@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author chang
+ * @author An Nguyen Van
  */
 public class TimKiemMatHang extends javax.swing.JFrame {
 
