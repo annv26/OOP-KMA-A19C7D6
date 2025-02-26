@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author chang
+ * @author An nguyen Van
  */
 public class TimKiemHangHoa extends javax.swing.JFrame {
 
