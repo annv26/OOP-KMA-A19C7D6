@@ -13,7 +13,7 @@
 - `filenameDe1_1.txt`: Tương ứng là các file Text Document giúp lưu trữ dữ liệu, đọc dữ liệu trong quá trình hoàn thiện yêu cầu bài thi
 
 ## Tải Xuống  
-- Sử dụng Visual Studio Code, IntelliJ IDea (Hoặc các Text Editor, IDE tương tự). Tạo 1 Folder để chứa mã nguồn, mở Terminal và sử dụng lệnh `git clone https://github.com/vana-ngw/OOP-KMA-A19C7D6.git`
+- Sử dụng Visual Studio Code, IntelliJ IDea (Hoặc các Text Editor, IDE tương tự). Tạo 1 Folder để chứa mã nguồn, mở Terminal và sử dụng lệnh `git clone https://github.com/annv26/OOP-KMA-A19C7D6.git`
 
 ## De Thi
 https://drive.google.com/drive/folders/1joHFijjpWFLLWRawgd5WlGKqOnbJJYuw?usp=sharing
