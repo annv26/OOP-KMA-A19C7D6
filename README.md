@@ -12,18 +12,19 @@
 - `src/main/java` : Chứa các Packages tương ứng với số thứ tự của Đề
 - `filenameDe1_1.txt`: Tương ứng là các file Text Document giúp lưu trữ dữ liệu, đọc dữ liệu trong quá trình hoàn thiện yêu cầu bài thi
 
-## Tải Xuống  
+## Cách Tải Xuống  
 - Sử dụng Visual Studio Code, IntelliJ IDea (Hoặc các Text Editor, IDE tương tự). Tạo 1 Folder để chứa mã nguồn, mở Terminal và sử dụng lệnh `git clone https://github.com/annv26/OOP-KMA-A19C7D6.git`
 
-## De Thi
+## Đề Thi
 https://drive.google.com/drive/folders/1joHFijjpWFLLWRawgd5WlGKqOnbJJYuw?usp=sharing
 
 ## Lưu ý
 Đề 2-2 Phần giao diện tìm kiếm và sắp xếp đề bài không yêu cầu như phần mình làm (Đề yêu cầu tương tự như Đề 2-1) nhưng vì mình muốn mang đến 1 cách làm khác. Cụ thể là tìm kiếm thông tin sản phẩm theo mã hàng, sắp xếp danh sách Mặt hàng và hiển thị lên BẢNG. Đây không phải là cách làm đúng theo yêu cầu đề bài cũng như tối ưu trong quá trình làm bài thi nên mình chỉ để đây cho mọi người tham khảo chứ không khuyến khích làm theo.
 
 ## Đóng Góp  
-Mọi đóng góp cho project đều được hoan nghênh! Nếu bạn muốn bổ sung hoặc cải thiện code, vui lòng liên hệ với tôi. 
+Mọi đóng góp cho project đều được hoan nghênh! Nếu bạn muốn bổ sung hoặc cải thiện code, vui lòng liên hệ với mình. 
 
 ## Liên Hệ  
-- Email: **nvan260602@gmail.com** 
-- Facebook: **https://www.facebook.com/an.nv26** 
+- Email: **nvan260602@gmail.com**
+- Facebook: **https://www.facebook.com/an.nv26**
+- TikTok: **https://www.tiktok.com/@an.nv26**
