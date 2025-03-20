@@ -1,2 +1,2 @@
-hoTen=Nguyen Van An, namSinh=2002, gioiTinh=Nam, diaChi=Ha Noi, heSoLuong=2.2, LUONG_CO_BAN=2000000.0, nganhDaoTao=ATTT, Luong: 4400000.0
-hoTen=Mai Van Tai, namSinh=2005, gioiTinh=Nam, diaChi=Thanh Hoa, heSoLuong=2.5, LUONG_CO_BAN=2000000.0, heSoChucVu=0.5, Luong: 7500000.0
+hoTen=Nguyen Van A, namSinh=2002, gioiTinh=Nam, diaChi=Ha Noi, heSoLuong=2.2, LUONG_CO_BAN=2000000.0, nganhDaoTao=ATTT, Luong: 4400000.0
+hoTen=Nguyen Van B, namSinh=2002, gioiTinh=Nam, diaChi=Thanh Hoa, heSoLuong=2.5, LUONG_CO_BAN=2000000.0, heSoChucVu=0.5, Luong: 7500000.0
