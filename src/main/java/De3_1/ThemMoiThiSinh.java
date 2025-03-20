@@ -359,7 +359,7 @@ public class ThemMoiThiSinh extends javax.swing.JFrame {
             resetForm();
         }
         else{
-            JOptionPane.showMessageDialog(rootPane, "Vui Long Dien Day Du Thong Tin!");
+            JOptionPane.showMessageDialog(rootPane, "Vui Long Chon Loai Thi Sinh!");
         }
     }//GEN-LAST:event_btnLuuActionPerformed
 
@@ -370,7 +370,7 @@ public class ThemMoiThiSinh extends javax.swing.JFrame {
             
             PrintWriter pw = new PrintWriter(file);
             if(danhSachThiSinh.isEmpty()){
-                JOptionPane.showMessageDialog(rootPane, "Danh Sach Nhan Vien Trong!");
+                JOptionPane.showMessageDialog(rootPane, "Danh Sach Thi Sinh Trong!");
                 return;
             }
             for(ThiSinh ts : danhSachThiSinh){
@@ -408,7 +408,7 @@ public class ThemMoiThiSinh extends javax.swing.JFrame {
         }
         tableModel.fireTableDataChanged();
         if(isChecked == false){
-            JOptionPane.showMessageDialog(rootPane, "Khong Co Thi Sinh Khoi D! Vui Long Thu Lai");
+            JOptionPane.showMessageDialog(rootPane, "Khong Co Thi Sinh Khoi D!");
         }
         if(count != 0){
             JOptionPane.showMessageDialog(rootPane, "Co " + count + " Thi Sinh Khoi D!");
@@ -431,11 +431,11 @@ public class ThemMoiThiSinh extends javax.swing.JFrame {
                     ((ThiSinhKhoiA) ts).getDiemLy(), ((ThiSinhKhoiA) ts).getDiemHoa(), ((ThiSinhKhoiA) ts).tinhDiem()
                 };
                 tableModel.addRow(row);
-                tableModel.fireTableDataChanged();
             }
         }
+        tableModel.fireTableDataChanged();
         if(isChecked == false){
-            JOptionPane.showMessageDialog(rootPane, "Khong Co Thi Sinh Khoi A! Vui Long Thu Lai");
+            JOptionPane.showMessageDialog(rootPane, "Khong Co Thi Sinh Khoi A!");
         }
         if(count != 0){
             JOptionPane.showMessageDialog(rootPane, "Co " + count + " Thi Sinh Khoi A!");
@@ -459,7 +459,6 @@ public class ThemMoiThiSinh extends javax.swing.JFrame {
                         ((ThiSinhKhoiA) ts).getDiemLy(), ((ThiSinhKhoiA) ts).getDiemHoa(), ((ThiSinhKhoiA) ts).tinhDiem()
                     };
                     tableModel.addRow(row);
-                    tableModel.fireTableDataChanged();
                 }
             }
             else if(ts instanceof ThiSinhKhoiD){
@@ -471,11 +470,10 @@ public class ThemMoiThiSinh extends javax.swing.JFrame {
                         ((ThiSinhKhoiD) ts).getDiemVan(), ((ThiSinhKhoiD) ts).getDiemAnh(), ((ThiSinhKhoiD) ts).tinhDiem()
                     };
                     tableModel.addRow(row);
-                    tableModel.fireTableDataChanged();
                 }
             }
         }
-    
+        tableModel.fireTableDataChanged();
         if(isChecked == false){
             JOptionPane.showMessageDialog(rootPane, "Khong Co Thi Sinh Nao Tren 8 Diem!");
         }
@@ -501,7 +499,6 @@ public class ThemMoiThiSinh extends javax.swing.JFrame {
                         ((ThiSinhKhoiA) ts).getDiemLy(), ((ThiSinhKhoiA) ts).getDiemHoa(), ((ThiSinhKhoiA) ts).tinhDiem()
                     };
                     tableModel.addRow(row);
-                    tableModel.fireTableDataChanged();
                 }
             }
             else if(ts instanceof ThiSinhKhoiD){
@@ -513,11 +510,10 @@ public class ThemMoiThiSinh extends javax.swing.JFrame {
                         ((ThiSinhKhoiD) ts).getDiemVan(), ((ThiSinhKhoiD) ts).getDiemAnh(), ((ThiSinhKhoiD) ts).tinhDiem()
                     };
                     tableModel.addRow(row);
-                    tableModel.fireTableDataChanged();
                 }
             }
         }
-    
+        tableModel.fireTableDataChanged();
         if(isChecked == false){
             JOptionPane.showMessageDialog(rootPane, "Khong Co Thi Sinh Nao Thap Hon Diem San!");
         }
